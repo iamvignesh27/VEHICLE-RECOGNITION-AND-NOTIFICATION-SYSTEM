@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vehiclerecog.iml" filepath="$PROJECT_DIR$/vehiclerecog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/vehiclerecog_android.iml" filepath="$PROJECT_DIR$/android/vehiclerecog_android.iml" />
+    </modules>
+  </component>
+</project>
